@@ -1,5 +1,5 @@
 #Internet of Things (IoT) Based Smart Irrigation System
-📄 Patent Work Documentation and Research
+📄Patent Work Documentation and Research
 
 📚 Project Description
 The IoT-Based Smart Irrigation System is an innovative solution designed to optimize water usage in agriculture by automating the irrigation process using Internet of Things (IoT) technology. The system monitors soil moisture levels, weather conditions, and crop requirements, triggering the irrigation process automatically to conserve water and improve crop yields.
